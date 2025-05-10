@@ -1,0 +1,26 @@
+question,weighted_score_mean,bert_score_mean,cosine_similarity_mean
+"""Which detective is the protagonist of the novels """"Dead Man's Folly"""", """"Cards on the Table"""" and """"Mrs McGinty's Dead""""?""",1.0,1.0,1.0
+"As at early 2015, how many Prime Ministers have served in Australia since 2013?",1.0,1.0,1.0
+"This quiz is printed on A4 paper which has a length of 297mm. How wide, in millimetres, is A4 paper?",1.0,1.0,1.0
+John Chapter 11 Verse 35 is the shortest verse in the Bible. How many words make up the verse?,1.0,1.0,1.0
+"The 3rd of his vice presidents (after John Nance Garner and Henry Wallace), who took over the reins of power when FDR kicked off?",1.0,1.0,1.0
+Who was the only fictional character to feature in Time Magazine's 100 most important people of the 20th Century?,1.0,1.0,1.0
+Which American naval destroyer was attacked in Aden in October 2000?,0.8347008029619852,0.9467235604921976,0.6666666666666666
+"Cable News Network (CNN), the first channel to provide 24-hour television news coverage, was founded by Ted Turner in what year?",0.83094349304835,0.9404613773028055,0.6666666666666666
+Which torture chamber was invented by George Orwell?,0.8308741013209024,0.9403457244237264,0.6666666666666666
+How many feet are in a furlong?,0.8303725401560466,0.9395097891489664,0.6666666666666666
+"In years and days, how old was Luigina Giavotti when she won a silver medal in gymnastics in 1928, and is still the youngest medal winner today?",0.8236441771189371,0.9282958507537842,0.6666666666666666
+In April 1814 which King gained the French throne to begin the Bourbon Restoration?,0.8190881411234537,0.9207024574279785,0.6666666666666666
+Who had a No 1 in the 80's with Karma Chameleon,0.6632081349690755,0.8831246693929037,0.3333333333333333
+How many ‘E’ tiles are provided in a Scrabble game?,0.662083633740743,0.8812505006790161,0.3333333333333333
+The Nazi regime was Germany's Third Reich; which was the first Reich?,0.6571624596913656,0.8730485439300537,0.3333333333333333
+From around 2566 B.C. to 1311 A.D. what was the world’s tallest building?,0.654828151067098,0.8691580295562744,0.3333333333333333
+Which British fashion designer was commissioned by Stanley Kubrick to design the costumes for the film ‘2001: A Space Odyssey’?,0.6384996016820271,0.8419437805811564,0.3333333333333333
+How many squares does a Rubik’s Cube have on each side?,0.4934360146522521,0.8223933577537537,0.0
+Which city in Georgia was burned by General Sherman during the American Civil War,0.4919723868370056,0.819953978061676,0.0
+The SS Titanic sank in which year?,0.4913669228553772,0.8189448714256287,0.0
+What is commonly known as the 'sport of kings'?,0.49046266078948975,0.8174377679824829,0.0
+How long do NFL football teams have to get a play off (the play clock)?,0.48698033094406123,0.8116338849067688,0.0
+"Which Tim Burton film is the highest-grossing film of 2010 and, already, the fifth highest-grossing film of all time worldwide?",0.4754708647727966,0.7924514412879944,0.0
+"In 1984, in Bophal, India, there was a leak of 30 tons of methyl isocyanate, which resulted in the deaths of 25,000 people. What American chemical company owned the plant where the leak occurred?",0.4583587646484375,0.7639312744140625,0.0
+Which is the largest city in Scandinavia by population ?,0.4399286270141601,0.7332143783569336,0.0

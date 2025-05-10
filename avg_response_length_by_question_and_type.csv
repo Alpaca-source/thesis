@@ -1,0 +1,76 @@
+question,type,avg_response_length
+"""Which detective is the protagonist of the novels """"Dead Man's Folly"""", """"Cards on the Table"""" and """"Mrs McGinty's Dead""""?""",graphrag,1311.0
+"""Which detective is the protagonist of the novels """"Dead Man's Folly"""", """"Cards on the Table"""" and """"Mrs McGinty's Dead""""?""",lightrag,70.0
+"""Which detective is the protagonist of the novels """"Dead Man's Folly"""", """"Cards on the Table"""" and """"Mrs McGinty's Dead""""?""",prompt_injection,16.0
+"As at early 2015, how many Prime Ministers have served in Australia since 2013?",graphrag,1282.3333333333333
+"As at early 2015, how many Prime Ministers have served in Australia since 2013?",lightrag,1.0
+"As at early 2015, how many Prime Ministers have served in Australia since 2013?",prompt_injection,1.0
+"Cable News Network (CNN), the first channel to provide 24-hour television news coverage, was founded by Ted Turner in what year?",graphrag,1388.0
+"Cable News Network (CNN), the first channel to provide 24-hour television news coverage, was founded by Ted Turner in what year?",lightrag,26.0
+"Cable News Network (CNN), the first channel to provide 24-hour television news coverage, was founded by Ted Turner in what year?",prompt_injection,13.333333333333334
+From around 2566 B.C. to 1311 A.D. what was the world’s tallest building?,graphrag,1800.6666666666667
+From around 2566 B.C. to 1311 A.D. what was the world’s tallest building?,lightrag,21.0
+From around 2566 B.C. to 1311 A.D. what was the world’s tallest building?,prompt_injection,28.333333333333332
+How long do NFL football teams have to get a play off (the play clock)?,graphrag,915.0
+How long do NFL football teams have to get a play off (the play clock)?,lightrag,10.0
+How long do NFL football teams have to get a play off (the play clock)?,prompt_injection,32.0
+How many feet are in a furlong?,graphrag,953.3333333333334
+How many feet are in a furlong?,lightrag,9.0
+How many feet are in a furlong?,prompt_injection,12.666666666666666
+How many squares does a Rubik’s Cube have on each side?,graphrag,786.0
+How many squares does a Rubik’s Cube have on each side?,lightrag,64.0
+How many squares does a Rubik’s Cube have on each side?,prompt_injection,32.0
+How many ‘E’ tiles are provided in a Scrabble game?,graphrag,1034.6666666666667
+How many ‘E’ tiles are provided in a Scrabble game?,lightrag,2.0
+How many ‘E’ tiles are provided in a Scrabble game?,prompt_injection,22.0
+"In 1984, in Bophal, India, there was a leak of 30 tons of methyl isocyanate, which resulted in the deaths of 25,000 people. What American chemical company owned the plant where the leak occurred?",graphrag,948.3333333333334
+"In 1984, in Bophal, India, there was a leak of 30 tons of methyl isocyanate, which resulted in the deaths of 25,000 people. What American chemical company owned the plant where the leak occurred?",lightrag,14.0
+"In 1984, in Bophal, India, there was a leak of 30 tons of methyl isocyanate, which resulted in the deaths of 25,000 people. What American chemical company owned the plant where the leak occurred?",prompt_injection,32.0
+In April 1814 which King gained the French throne to begin the Bourbon Restoration?,graphrag,1346.0
+In April 1814 which King gained the French throne to begin the Bourbon Restoration?,lightrag,11.0
+In April 1814 which King gained the French throne to begin the Bourbon Restoration?,prompt_injection,18.0
+"In years and days, how old was Luigina Giavotti when she won a silver medal in gymnastics in 1928, and is still the youngest medal winner today?",graphrag,767.6666666666666
+"In years and days, how old was Luigina Giavotti when she won a silver medal in gymnastics in 1928, and is still the youngest medal winner today?",lightrag,38.0
+"In years and days, how old was Luigina Giavotti when she won a silver medal in gymnastics in 1928, and is still the youngest medal winner today?",prompt_injection,24.666666666666668
+John Chapter 11 Verse 35 is the shortest verse in the Bible. How many words make up the verse?,graphrag,857.6666666666666
+John Chapter 11 Verse 35 is the shortest verse in the Bible. How many words make up the verse?,lightrag,4.0
+John Chapter 11 Verse 35 is the shortest verse in the Bible. How many words make up the verse?,prompt_injection,3.0
+"The 3rd of his vice presidents (after John Nance Garner and Henry Wallace), who took over the reins of power when FDR kicked off?",graphrag,976.6666666666666
+"The 3rd of his vice presidents (after John Nance Garner and Henry Wallace), who took over the reins of power when FDR kicked off?",lightrag,13.0
+"The 3rd of his vice presidents (after John Nance Garner and Henry Wallace), who took over the reins of power when FDR kicked off?",prompt_injection,12.0
+The Nazi regime was Germany's Third Reich; which was the first Reich?,graphrag,2157.6666666666665
+The Nazi regime was Germany's Third Reich; which was the first Reich?,lightrag,22.0
+The Nazi regime was Germany's Third Reich; which was the first Reich?,prompt_injection,27.0
+The SS Titanic sank in which year?,graphrag,1334.6666666666667
+The SS Titanic sank in which year?,lightrag,25.0
+The SS Titanic sank in which year?,prompt_injection,32.0
+"This quiz is printed on A4 paper which has a length of 297mm. How wide, in millimetres, is A4 paper?",graphrag,538.0
+"This quiz is printed on A4 paper which has a length of 297mm. How wide, in millimetres, is A4 paper?",lightrag,6.0
+"This quiz is printed on A4 paper which has a length of 297mm. How wide, in millimetres, is A4 paper?",prompt_injection,3.0
+What is commonly known as the 'sport of kings'?,graphrag,1330.3333333333333
+What is commonly known as the 'sport of kings'?,lightrag,13.0
+What is commonly known as the 'sport of kings'?,prompt_injection,32.0
+Which American naval destroyer was attacked in Aden in October 2000?,graphrag,538.3333333333334
+Which American naval destroyer was attacked in Aden in October 2000?,lightrag,11.0
+Which American naval destroyer was attacked in Aden in October 2000?,prompt_injection,18.0
+Which British fashion designer was commissioned by Stanley Kubrick to design the costumes for the film ‘2001: A Space Odyssey’?,graphrag,1281.3333333333333
+Which British fashion designer was commissioned by Stanley Kubrick to design the costumes for the film ‘2001: A Space Odyssey’?,lightrag,11.0
+Which British fashion designer was commissioned by Stanley Kubrick to design the costumes for the film ‘2001: A Space Odyssey’?,prompt_injection,25.0
+"Which Tim Burton film is the highest-grossing film of 2010 and, already, the fifth highest-grossing film of all time worldwide?",graphrag,1147.3333333333333
+"Which Tim Burton film is the highest-grossing film of 2010 and, already, the fifth highest-grossing film of all time worldwide?",lightrag,19.0
+"Which Tim Burton film is the highest-grossing film of 2010 and, already, the fifth highest-grossing film of all time worldwide?",prompt_injection,32.0
+Which city in Georgia was burned by General Sherman during the American Civil War,graphrag,1464.3333333333333
+Which city in Georgia was burned by General Sherman during the American Civil War,lightrag,7.0
+Which city in Georgia was burned by General Sherman during the American Civil War,prompt_injection,32.0
+Which is the largest city in Scandinavia by population ?,graphrag,1234.6666666666667
+Which is the largest city in Scandinavia by population ?,lightrag,9.0
+Which is the largest city in Scandinavia by population ?,prompt_injection,32.0
+Which torture chamber was invented by George Orwell?,graphrag,1115.6666666666667
+Which torture chamber was invented by George Orwell?,lightrag,8.0
+Which torture chamber was invented by George Orwell?,prompt_injection,16.0
+Who had a No 1 in the 80's with Karma Chameleon,graphrag,1080.6666666666667
+Who had a No 1 in the 80's with Karma Chameleon,lightrag,13.0
+Who had a No 1 in the 80's with Karma Chameleon,prompt_injection,25.333333333333332
+Who was the only fictional character to feature in Time Magazine's 100 most important people of the 20th Century?,graphrag,1072.3333333333333
+Who was the only fictional character to feature in Time Magazine's 100 most important people of the 20th Century?,lightrag,12.0
+Who was the only fictional character to feature in Time Magazine's 100 most important people of the 20th Century?,prompt_injection,12.0
